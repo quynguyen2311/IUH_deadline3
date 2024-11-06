@@ -149,7 +149,6 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 0.25em 1.25em;
     gap: 0.5em;
     width: 10.25em;
     height: 3em;
@@ -231,7 +230,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0.75em 1.75em;
     gap: 0.5em;
     width: 9.625em;
     height: 2.75em;
@@ -418,7 +416,6 @@ body{
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    padding: 12px 28px;
     gap: 8px;
     width: 10.25em;
     height: 3em;
@@ -486,7 +483,6 @@ body{
     box-sizing: border-box;
     justify-content: center;
     align-items: center;
-    padding: 12px 28px;
     gap: 8px;
     width: 154px;
     height: 44px;
@@ -662,7 +658,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 12px 28px;
     width: 20%;
     height: 48px;
     background: #003459;
