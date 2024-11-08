@@ -50,6 +50,7 @@ body{
     display:flex;
     list-style:none;
     justify-content:space-between;
+    gap:48px;
 }
 .box1_header_left--list ul li{
     width:5.5em;
