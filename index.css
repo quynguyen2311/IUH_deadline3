@@ -20,7 +20,7 @@ body{
     height:43.438em;
     background-image:url(img/Herro\ Banner.png);
     background-size:cover;
-    background-repeat: unset;
+    background-repeat: unset; 
     padding:0 8.125em 0 8.125em;
     border-bottom-right-radius: 40px;
     border-bottom-left-radius:40px;
@@ -117,7 +117,7 @@ body{
 #h1_1{
     font-style: normal;
     font-weight: 700;
-    font-size: 60px;
+    font-size: 55px;
     line-height: 68px;
     text-transform: capitalize;
     color: #002A48;
@@ -127,7 +127,7 @@ body{
     margin-bottom:0.25em;
     font-style: normal;
     font-weight: 700;
-    font-size: 60px;
+    font-size: 55px;
     line-height: 68px;
     text-transform: capitalize;
     color: #002A48
@@ -529,11 +529,11 @@ body{
 /* content */
 .box2_container5_item--content{
     width:100%;
-    /* height:calc(100% - 15.188em); */
     height:35%;
     background: #FFFFFF;
     padding:0.5em;
     box-sizing:border-box;
+    overflow:hidden;
 }
 /* button */
 .box2_container5_item--content--button{
@@ -554,24 +554,20 @@ body{
     font-size: 10px;
     line-height: 16px;
     padding:0.125em 0.625em 0.125em 0.8em;
-    /* display: flex;
-    justify-content:center;
-    align-items: center; */
     color: #FDFDFD;
 } 
 .box2_container5_item--content1{
     width: 348px;
-    /* height: 48px; */
     height:auto;
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
     line-height: 24px;
     color: #00171F;
+    margin:8px 0;
 }
 .box2_container5_item--content2{
     width: 348px;
-    /* height: 60px; */
     height:auto;
     font-style: normal;
     font-weight: 400;
